@@ -1,0 +1,7 @@
+{
+    "domain": "thermal_printer",
+    "name": "Prints shopping lists on a thermal printer",
+    "iot_class": "local_polling",
+    "requirements": ["python-escpos==3.1"],
+    "version": "0.1.0"
+}

@@ -1,0 +1,2 @@
+shopping_list_print:
+  description: Prints a shopping list on a thermal printer.
